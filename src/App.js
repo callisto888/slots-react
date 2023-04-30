@@ -10,6 +10,7 @@ function App() {
   const [showOk, setShowOk] = useState(false)
 
   function randSign() {
+    // adsas d
     return signs[Math.floor(Math.random() * signs.length)]
   }
 
